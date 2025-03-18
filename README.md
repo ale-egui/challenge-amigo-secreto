@@ -1,11 +1,12 @@
 ![Challenge del amigo secreto](https://github.com/ale-egui/challenge-amigo-secreto/blob/b2d3a0bfcd1383004dca190baa808df5251538f1/assets/readme/banner%20readme%20github%20-%20proyecto%20amigo%20secreto.png)
 
 <h1 align="center"> 🎁 Challenge amigo secreto</h1>
-![Badge terminado](https://img.shields.io/badge/STATUS%20-%20TERMINADO%20-green) 
-![versión del proyecto](https://img.shields.io/badge/VERSI%C3%93N%20-%201.0.0%20-blue) 
-![Static Badge](https://img.shields.io/badge/%C3%9ALTIMA%20MODIFICACI%C3%93N%20-%20MARZO%20-green)
-  
 
+<p align="center">
+   <img src="https://img.shields.io/badge/ESTADO%20-%20DISPONIBLE-green" alt="Estado del proyecto">
+   <img src="https://img.shields.io/badge/VERSIÓN%20-%201.0.0-blue" alt="Versión del proyecto">
+   <img src="https://img.shields.io/badge/ÚLTIMA%20MODIFICACIÓN%20-%20MARZO-green" alt="Última modificación">
+</p>
   
 ---
 
